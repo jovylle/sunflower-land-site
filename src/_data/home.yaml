@@ -16,10 +16,11 @@ body: >-
   <!--EndFragment-->
 
 
-  ![](/static/img/screenshot_20240924_103434.png)
+  ![](/static/img/screenshot_20241123_114704.png)
 
 
-  \
+  ![](/static/img/screenshot_20241123_114614-3.png)
+
 
   \
 
@@ -34,13 +35,19 @@ body: >-
   ## Features
 
 
-  * **Bulk Planting**: Plant multiple seeds with a single click after selecting your desired seed.
+  Bulk Planting: Easily plant multiple seeds with a single click, maximizing your farming efficiency.
 
-  * **Mass Harvesting**: Quickly harvest all available crops in one go.
+  Mass Harvesting: Collect all your crops in one go, ensuring you get the most out of your hard work.
 
-  * **Easy-to-Use Interface**: The extension adds simple "Plant" and "Harvest" buttons to the game interface, conveniently placed for easy access.
+  Draggable Interface: Reposition buttons on your game screen to avoid obstruction and customize your layout.
 
-  * **Optimized for Performance**: Works seamlessly within the game without affecting performance.
+  Click All Plant Cells: Quickly apply actions like fertilizing across all plant cells with a single click.
+
+  Harvest Trees: Efficiently gather resources from trees with the new harvest trees button.
+
+  User-Friendly Interface: Convenient buttons for planting and harvesting, thoughtfully placed for easy access.
+
+  Optimized Performance: Designed to seamlessly integrate with the game, enhancing your overall gameplay experience
 
 
   ## Installation
@@ -59,11 +66,17 @@ body: >-
   ## Usage
 
 
-  1. Navigate to [Sunflower Land](https://sunflower-land.com/play).
+  How to Use:
 
-  2. Select your desired seed for planting.
+  Install the extension and navigate to Sunflower Land.
 
-  3. Click the "Plant" button to mass-plant seeds, or click the "Harvest" button to collect all available crops.
+  Select your desired seed.
+
+  Use the draggable buttons to position them as needed.
+
+  Click the "Plant" button to sow your crops, the "Harvest" button to collect your bounty, or the " Tree Harvest" button for tree resources.
+
+  Utilize the " All.. Just click all Plant Cells" button for efficient farm management. 
 
 
   ### Button Details:
