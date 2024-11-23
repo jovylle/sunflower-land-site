@@ -3,46 +3,7 @@ Sunflower Land Farm Helper: Mass Plant & Harvest
 
 **Sunflower Land Farm Helper: Mass Plant & Harvest** is a Chrome extension designed to enhance your farming experience in the popular game **Sunflower Land**. This tool allows players to easily plant and harvest crops in bulk, saving time and reducing repetitive clicking.
 
-Features
---------
-
-*   **Bulk Planting**: Plant multiple seeds with a single click after selecting your desired seed.
-    
-*   **Mass Harvesting**: Quickly harvest all available crops in one go.
-    
-*   **Easy-to-Use Interface**: The extension adds simple "Plant" and "Harvest" buttons to the game interface, conveniently placed for easy access.
-    
-*   **Optimized for Performance**: Works seamlessly within the game without affecting performance.
-    
-
-Installation
-------------
-
-### From Chrome Web Store
-
-1.  Visit the [Chrome Web Store](https://chromewebstore.google.com/detail/sunflower-land-farm-helpe/innimeplbaacgjbdpohblfgamoheoihi).
-    
-2.  Click **Add to Chrome**.
-    
-3.  Navigate to [Sunflower Land](https://sunflower-land.com/play) and start using the helper tool.
-    
-
-Usage
------
-
-1.  Navigate to [Sunflower Land](https://sunflower-land.com/play).
-    
-2.  Select your desired seed for planting.
-    
-3.  Click the "Plant" button to mass-plant seeds, or click the "Harvest" button to collect all available crops.
-    
-
-### Button Details:
-
-*   **Plant**: Plants multiple crops at once, but make sure to select the seed you want to plant first.
-    
-*   **Harvest**: Harvests all available crops in one click.
-    
+** see https://sunflower-land-helper.jovylle.com/ to see some feature and how to use
 
 Permissions
 -----------
