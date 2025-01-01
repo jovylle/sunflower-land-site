@@ -11,6 +11,7 @@ const md = new markdownIt({
 });
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("robots.txt");
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
 
